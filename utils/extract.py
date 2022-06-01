@@ -12,7 +12,7 @@ def parse_shopee_url(url):
     shopid = 88201679
     """
     # is valid url?
-    if not re.match(r'^https://shopee.vn/.*[0-9]+\.[0-9]+$', url):
+    if not re.match(r'^https://shopee.com.br/.*[0-9]+\.[0-9]+$', url):
         print('Invalid url')
         sys.exit(1)
 
