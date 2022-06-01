@@ -14,10 +14,10 @@ from utils import read_config, is_same_row, ensure_dir, parse_shopee_url, update
 def fetch_data(itemid, shopid):
     """
     Fetch data from shopee.vn api and return json data
-    API: https://shopee.vn/api/v4/item/get?itemid={itemid}&shopid={shopid}
+    API: https://shopee.com.br/api/v4/item/get?itemid={itemid}&shopid={shopid}
     Raise exception if response status code is not 200
     """
-    url = f'https://shopee.vn/api/v4/item/get?itemid={itemid}&shopid={shopid}'
+    url = f'https://shopee.com.br/api/v4/item/get?itemid={itemid}&shopid={shopid}'
     response = requests.get(url)
 
     if response.status_code != 200:
