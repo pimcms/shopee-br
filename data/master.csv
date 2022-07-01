@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1656640769,20220701,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1656695032,20220701,8897653002,10,35%,16,27914,6,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1656640769,20220701,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1656553814,20220630,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1656467473,20220629,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1656380968,20220628,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
@@ -15,7 +16,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516599,20220618,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1655452792,20220617,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1654073180,20220601,8897653002,10,35%,16,27918,34,normal,6,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
-1656682682,20220701,10190871203,142,68%,445,12419,20,normal,22,74,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1656695030,20220701,10190871203,142,68%,445,12419,16,normal,22,74,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1656682682,20220701,10190871203,142,68%,445,12419,20,normal,22,74,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1656640767,20220701,10190871203,142,68%,445,12416,20,normal,22,74,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1656608693,20220630,10190871203,142,68%,445,12416,20,normal,22,74,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1656596254,20220630,10190871203,142,68%,445,12416,21,normal,22,74,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
