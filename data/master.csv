@@ -24,7 +24,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516599,20220618,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1655452792,20220617,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1654073180,20220601,8897653002,10,35%,16,27918,34,normal,6,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
-1657124931,20220706,10190871203,142,68%,445,12627,14,normal,24,75,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1657126902,20220706,10190871203,142,68%,445,12627,15,normal,25,75,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1657124931,20220706,10190871203,142,68%,445,12627,14,normal,24,75,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1657085320,20220706,10190871203,142,68%,445,12627,14,normal,23,75,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1657082956,20220706,10190871203,142,68%,445,12628,14,normal,23,75,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1657072793,20220706,10190871203,142,68%,445,12629,14,normal,23,75,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
@@ -79,7 +80,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655505586,20220617,10190871203,142,68%,445,12421,28,normal,22,70,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1655452790,20220617,10190871203,142,68%,445,12422,28,normal,22,70,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1654073178,20220601,10190871203,142,68%,445,12425,25,normal,17,62,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
-1657121446,20220706,13992870026,72,52%,151,20860,7,normal,1,324,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,True
+1657126905,20220706,13992870026,72,52%,151,20860,7,normal,1,326,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,True
+1657121446,20220706,13992870026,72,52%,151,20860,7,normal,1,324,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1657114931,20220706,13992870026,72,52%,151,20860,7,normal,1,323,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1657102872,20220706,13992870026,72,52%,151,20860,7,normal,1,322,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1657072796,20220706,13992870026,72,52%,151,20860,7,normal,1,323,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
@@ -588,7 +590,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655472784,20220617,15538395933,119,43%,208,1707,96,normal,75,695,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1655452788,20220617,15538395933,119,43%,208,1707,96,normal,75,694,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1654073175,20220601,15538395933,119,43%,208,1772,96,normal,62,492,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
-1657124930,20220706,16604914064,119,50%,241,9853,62,normal,57,394,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1657126901,20220706,16604914064,119,50%,241,9853,62,normal,57,395,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1657124930,20220706,16604914064,119,50%,241,9853,62,normal,57,394,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1657111354,20220706,16604914064,119,50%,241,9853,58,normal,57,393,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1657104241,20220706,16604914064,119,50%,241,9853,58,normal,56,393,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1657102868,20220706,16604914064,119,50%,241,9853,58,normal,56,392,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
