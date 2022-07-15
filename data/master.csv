@@ -35,7 +35,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516599,20220618,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1655452792,20220617,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1654073180,20220601,8897653002,10,35%,16,27918,34,normal,6,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
-1657850585,20220715,10190871203,142,68%,445,12627,13,normal,27,79,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1657904567,20220715,10190871203,142,68%,445,12627,12,normal,27,79,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1657850585,20220715,10190871203,142,68%,445,12627,13,normal,27,79,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1657819747,20220714,10190871203,142,68%,445,12627,13,normal,27,79,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1657763725,20220714,10190871203,142,68%,445,12627,14,normal,27,79,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1657729857,20220713,10190871203,142,68%,445,12627,14,normal,27,78,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
@@ -863,7 +864,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655472784,20220617,15538395933,119,43%,208,1707,96,normal,75,695,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1655452788,20220617,15538395933,119,43%,208,1707,96,normal,75,694,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1654073175,20220601,15538395933,119,43%,208,1772,96,normal,62,492,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
-1657902538,20220715,16604914064,119,50%,241,9831,55,normal,62,448,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1657904566,20220715,16604914064,119,50%,241,9831,55,normal,62,449,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1657902538,20220715,16604914064,119,50%,241,9831,55,normal,62,448,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1657898486,20220715,16604914064,119,50%,241,9832,55,normal,62,447,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1657892929,20220715,16604914064,119,50%,241,9834,55,normal,62,447,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1657888682,20220715,16604914064,119,50%,241,9834,55,normal,62,446,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
