@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1658250397,20220719,8897653002,10,35%,16,0,4,sold_out,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1658252932,20220719,8897653002,10,35%,16,28838,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1658250397,20220719,8897653002,10,35%,16,0,4,sold_out,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1658244122,20220719,8897653002,8,50%,16,28838,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1658238061,20220719,8897653002,10,35%,16,0,4,sold_out,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1658196238,20220719,8897653002,10,35%,16,28838,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
@@ -42,7 +43,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516599,20220618,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1655452792,20220617,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1654073180,20220601,8897653002,10,35%,16,27918,34,normal,6,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
-1658250395,20220719,10190871203,142,68%,445,11127,14,normal,28,80,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1658252930,20220719,10190871203,142,68%,445,12627,14,normal,28,80,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1658250395,20220719,10190871203,142,68%,445,11127,14,normal,28,80,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1658244121,20220719,10190871203,133,70%,445,1500,12,normal,28,80,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1658238059,20220719,10190871203,142,68%,445,11127,12,normal,28,80,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1658196236,20220719,10190871203,142,68%,445,12627,12,normal,28,80,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
@@ -456,7 +458,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516598,20220618,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1655452791,20220617,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1654073179,20220601,14471773624,134,55%,299,8880,26,normal,13,81,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
-1658250392,20220719,15538395933,123,41%,208,1451,95,normal,133,1178,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1658252928,20220719,15538395933,123,41%,208,1548,95,normal,133,1178,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1658250392,20220719,15538395933,123,41%,208,1451,95,normal,133,1178,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1658248107,20220719,15538395933,119,42%,208,98,93,normal,133,1178,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1658245575,20220719,15538395933,119,42%,208,99,93,normal,133,1177,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1658244118,20220719,15538395933,119,42%,208,100,93,normal,133,1176,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
@@ -979,7 +982,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655472784,20220617,15538395933,119,43%,208,1707,96,normal,75,695,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1655452788,20220617,15538395933,119,43%,208,1707,96,normal,75,694,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1654073175,20220601,15538395933,119,43%,208,1772,96,normal,62,492,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
-1658248108,20220719,16604914064,125,48%,241,9822,54,normal,64,479,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1658252929,20220719,16604914064,125,48%,241,9821,54,normal,64,479,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1658248108,20220719,16604914064,125,48%,241,9822,54,normal,64,479,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1658244119,20220719,16604914064,125,48%,241,9822,51,normal,64,479,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1658240229,20220719,16604914064,123,49%,241,99,51,normal,64,479,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1658238058,20220719,16604914064,123,49%,241,100,51,normal,64,479,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
