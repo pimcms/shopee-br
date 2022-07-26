@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1658800828,20220726,8897653002,10,35%,16,28964,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1658832312,20220726,8897653002,10,37%,16,28964,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1658800828,20220726,8897653002,10,35%,16,28964,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1658713880,20220725,8897653002,10,35%,16,28964,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1658669388,20220724,8897653002,10,35%,16,28964,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1658654267,20220724,8897653002,8,50%,16,28964,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
