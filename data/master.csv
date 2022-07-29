@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1658972994,20220728,8897653002,10,37%,16,28964,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1659059952,20220729,8897653002,10,37%,16,28964,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1658972994,20220728,8897653002,10,37%,16,28964,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1658887047,20220727,8897653002,10,37%,16,28964,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1658832312,20220726,8897653002,10,37%,16,28964,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1658800828,20220726,8897653002,10,35%,16,28964,4,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
@@ -57,7 +58,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516599,20220618,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1655452792,20220617,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1654073180,20220601,8897653002,10,35%,16,27918,34,normal,6,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
-1658972991,20220728,10190871203,142,68%,445,12672,11,normal,30,80,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1659059950,20220729,10190871203,142,68%,445,12672,11,normal,30,80,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1658972991,20220728,10190871203,142,68%,445,12672,11,normal,30,80,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1658887045,20220727,10190871203,142,68%,445,12672,11,normal,30,80,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1658800826,20220726,10190871203,142,68%,445,12672,11,normal,29,80,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1658768368,20220725,10190871203,142,68%,445,12672,11,normal,29,80,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
@@ -165,7 +167,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655505586,20220617,10190871203,142,68%,445,12421,28,normal,22,70,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1655452790,20220617,10190871203,142,68%,445,12422,28,normal,22,70,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1654073178,20220601,10190871203,142,68%,445,12425,25,normal,17,62,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
-1659050415,20220728,13992870026,72,52%,151,20835,11,normal,5,486,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,True
+1659059954,20220729,13992870026,72,52%,151,20835,11,normal,5,486,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,True
+1659050415,20220728,13992870026,72,52%,151,20835,11,normal,5,486,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1659040906,20220728,13992870026,72,52%,151,20835,11,normal,5,484,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1659028003,20220728,13992870026,72,52%,151,20835,11,normal,5,485,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1659025825,20220728,13992870026,72,52%,151,20835,11,normal,5,484,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
@@ -465,7 +468,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655469378,20220617,13992870026,72,52%,151,20865,1,normal,0,213,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1655452792,20220617,13992870026,72,52%,151,20865,1,normal,0,212,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1654077195,20220601,13992870026,72,52%,151,20872,0,normal,0,33,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
-1659028000,20220728,14471773624,78,55%,173,9096,14,normal,32,122,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,True
+1659059951,20220729,14471773624,78,55%,173,9096,14,normal,32,122,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,True
+1659028000,20220728,14471773624,78,55%,173,9096,14,normal,32,122,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1658972993,20220728,14471773624,78,55%,173,9096,16,normal,32,122,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1658956560,20220727,14471773624,78,55%,173,9096,16,normal,32,122,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1658939318,20220727,14471773624,78,55%,173,9096,16,normal,32,121,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
@@ -603,7 +607,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516598,20220618,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1655452791,20220617,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1654073179,20220601,14471773624,134,55%,299,8880,26,normal,13,81,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
-1659051669,20220728,15538395933,119,43%,208,455,112,normal,153,1286,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1659059948,20220729,15538395933,119,43%,208,453,112,normal,153,1288,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1659051669,20220728,15538395933,119,43%,208,455,112,normal,153,1286,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1659039633,20220728,15538395933,119,43%,208,456,112,normal,153,1286,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1659035670,20220728,15538395933,119,43%,208,455,112,normal,153,1286,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1659034178,20220728,15538395933,119,43%,208,457,112,normal,153,1286,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
@@ -1271,7 +1276,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655472784,20220617,15538395933,119,43%,208,1707,96,normal,75,695,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1655452788,20220617,15538395933,119,43%,208,1707,96,normal,75,694,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1654073175,20220601,15538395933,119,43%,208,1772,96,normal,62,492,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
-1659050411,20220728,16604914064,118,51%,241,492,68,normal,78,520,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1659059949,20220729,16604914064,118,51%,241,492,68,normal,78,520,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1659050411,20220728,16604914064,118,51%,241,492,68,normal,78,520,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1659046673,20220728,16604914064,118,51%,241,492,68,normal,77,520,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1659025820,20220728,16604914064,118,51%,241,492,68,normal,76,520,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1658985980,20220728,16604914064,118,51%,241,492,70,normal,76,520,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
