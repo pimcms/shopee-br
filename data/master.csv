@@ -77,7 +77,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516599,20220618,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1655452792,20220617,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1654073180,20220601,8897653002,10,35%,16,27918,34,normal,6,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
-1660268821,20220812,10190871203,142,68%,445,12565,6,banned,31,83,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1660323899,20220812,10190871203,142,68%,445,12565,4,banned,31,83,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1660268821,20220812,10190871203,142,68%,445,12565,6,banned,31,83,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1660239677,20220811,10190871203,142,68%,445,12565,6,banned,31,83,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1660182188,20220811,10190871203,142,68%,445,12565,7,banned,31,83,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1660095614,20220810,10190871203,142,68%,445,12565,7,banned,31,83,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
@@ -216,7 +217,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655505586,20220617,10190871203,142,68%,445,12421,28,normal,22,70,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1655452790,20220617,10190871203,142,68%,445,12422,28,normal,22,70,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1654073178,20220601,10190871203,142,68%,445,12425,25,normal,17,62,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
-1660285431,20220812,13992870026,71,53%,151,20628,14,normal,9,571,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,True
+1660323902,20220812,13992870026,71,53%,151,20628,14,normal,9,572,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,True
+1660285431,20220812,13992870026,71,53%,151,20628,14,normal,9,571,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1660268824,20220812,13992870026,71,53%,151,20703,14,normal,9,571,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1660257640,20220811,13992870026,71,53%,151,20703,14,normal,9,571,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1660249129,20220811,13992870026,71,53%,151,20703,14,normal,9,570,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
