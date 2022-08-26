@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1661479413,20220826,8897653002,10,37%,16,28501,0,normal,8,6,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1661527272,20220826,8897653002,10,37%,16,28375,0,normal,8,6,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1661479413,20220826,8897653002,10,37%,16,28501,0,normal,8,6,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1661427630,20220825,8897653002,10,37%,16,28502,0,normal,8,6,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1661401651,20220825,8897653002,10,37%,16,28586,0,normal,8,6,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1661392874,20220825,8897653002,10,37%,16,28586,0,normal,8,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
@@ -94,7 +95,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516599,20220618,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1655452792,20220617,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1654073180,20220601,8897653002,10,35%,16,27918,34,normal,6,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
-1661479412,20220826,10190871203,142,68%,445,12505,3,banned,32,84,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1661527271,20220826,10190871203,142,68%,445,12460,3,banned,32,84,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1661479412,20220826,10190871203,142,68%,445,12505,3,banned,32,84,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1661427629,20220825,10190871203,142,68%,445,12505,3,banned,32,84,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1661392872,20220825,10190871203,142,68%,445,12535,3,banned,32,84,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1661306330,20220824,10190871203,142,68%,445,12535,3,banned,32,84,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
@@ -789,7 +791,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655469378,20220617,13992870026,72,52%,151,20865,1,normal,0,213,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1655452792,20220617,13992870026,72,52%,151,20865,1,normal,0,212,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1654077195,20220601,13992870026,72,52%,151,20872,0,normal,0,33,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
-1661523446,20220826,14471773624,78,55%,173,8995,10,normal,38,152,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,True
+1661527272,20220826,14471773624,78,55%,173,8968,10,normal,38,152,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,True
+1661523446,20220826,14471773624,78,55%,173,8995,10,normal,38,152,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1661520994,20220826,14471773624,78,55%,173,8995,10,normal,38,151,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1661498570,20220826,14471773624,78,55%,173,8995,10,normal,38,149,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1661488036,20220826,14471773624,78,58%,173,2719,10,normal,38,149,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
@@ -1029,7 +1032,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516598,20220618,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1655452791,20220617,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1654073179,20220601,14471773624,134,55%,299,8880,26,normal,13,81,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
-1661524814,20220826,15538395933,114,45%,208,75,224,normal,267,1784,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1661527270,20220826,15538395933,114,45%,208,75,224,normal,267,1785,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1661524814,20220826,15538395933,114,45%,208,75,224,normal,267,1784,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1661523445,20220826,15538395933,114,45%,208,75,224,normal,267,1782,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1661520993,20220826,15538395933,114,45%,208,75,224,normal,266,1782,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1661509241,20220826,15538395933,114,45%,208,75,224,normal,266,1781,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
