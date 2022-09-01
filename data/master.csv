@@ -101,7 +101,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516599,20220618,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1655452792,20220617,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1654073180,20220601,8897653002,10,35%,16,27918,34,normal,6,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
-1662035868,20220901,10190871203,445,,0,12460,3,banned,32,85,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1662039433,20220901,10190871203,445,,0,12460,3,banned,32,85,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1662035868,20220901,10190871203,445,,0,12460,3,banned,32,85,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1662032338,20220901,10190871203,445,,0,12460,3,banned,32,85,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1662030999,20220901,10190871203,445,,0,12460,3,banned,32,85,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1662029060,20220901,10190871203,445,,0,12460,3,banned,32,85,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
@@ -284,7 +285,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655505586,20220617,10190871203,142,68%,445,12421,28,normal,22,70,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1655452790,20220617,10190871203,142,68%,445,12422,28,normal,22,70,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1654073178,20220601,10190871203,142,68%,445,12425,25,normal,17,62,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
-1662005318,20220901,13992870026,43,53%,90,7459,25,normal,19,690,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,True
+1662039434,20220901,13992870026,43,53%,90,7459,25,normal,19,691,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,True
+1662005318,20220901,13992870026,43,53%,90,7459,25,normal,19,690,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1661997345,20220901,13992870026,43,53%,90,7459,25,normal,19,689,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1661984417,20220831,13992870026,43,53%,90,7459,25,normal,19,689,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1661974652,20220831,13992870026,43,53%,90,7460,25,normal,19,690,Bijuterias Para Organizador Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
@@ -1135,7 +1137,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516598,20220618,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1655452791,20220617,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1654073179,20220601,14471773624,134,55%,299,8880,26,normal,13,81,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
-1662035867,20220901,15538395933,119,43%,208,9731,224,normal,291,1885,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1662039431,20220901,15538395933,119,43%,208,9731,224,normal,292,1885,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1662035867,20220901,15538395933,119,43%,208,9731,224,normal,291,1885,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1662030998,20220901,15538395933,119,43%,208,9731,224,normal,291,1884,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1662020793,20220901,15538395933,119,43%,208,9730,224,normal,291,1884,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1662013879,20220901,15538395933,119,43%,208,9730,224,normal,290,1884,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
