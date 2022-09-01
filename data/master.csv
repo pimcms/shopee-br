@@ -102,7 +102,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516599,20220618,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1655452792,20220617,8897653002,10,35%,16,27914,10,normal,7,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1654073180,20220601,8897653002,10,35%,16,27918,34,normal,6,5,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
-1662067045,20220901,10190871203,445,,0,12460,3,banned,32,85,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1662068486,20220901,10190871203,445,,0,12460,3,banned,32,85,Luvas De Goleiro De Futebol Adidas Americano Respirável,True
+1662067045,20220901,10190871203,445,,0,12460,3,banned,32,85,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1662064882,20220901,10190871203,445,,0,12460,3,banned,32,85,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1662063599,20220901,10190871203,445,,0,12460,3,banned,32,85,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1662061050,20220901,10190871203,445,,0,12460,3,banned,32,85,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
@@ -1161,7 +1162,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516598,20220618,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1655452791,20220617,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1654073179,20220601,14471773624,134,55%,299,8880,26,normal,13,81,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
-1662067044,20220901,15538395933,119,43%,208,9707,227,normal,295,1893,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1662068485,20220901,15538395933,119,43%,208,9707,227,normal,295,1894,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1662067044,20220901,15538395933,119,43%,208,9707,227,normal,295,1893,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1662063598,20220901,15538395933,119,43%,208,9708,227,normal,295,1893,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1662059709,20220901,15538395933,119,43%,208,9708,227,normal,295,1892,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1662058179,20220901,15538395933,119,43%,208,9708,224,normal,295,1891,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
