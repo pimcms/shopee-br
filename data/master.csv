@@ -1592,7 +1592,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516598,20220618,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1655452791,20220617,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1654073179,20220601,14471773624,134,55%,299,8880,26,normal,13,81,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
-1666664363,20221025,15538395933,116,44%,208,1998,196,normal,474,2515,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1666672572,20221025,15538395933,116,44%,208,1997,196,normal,474,2515,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1666664363,20221025,15538395933,116,44%,208,1998,196,normal,474,2515,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1666654002,20221024,15538395933,116,44%,208,1998,196,normal,474,2516,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1666648018,20221024,15538395933,116,44%,208,1999,196,normal,474,2516,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1666639647,20221024,15538395933,116,44%,208,1999,196,normal,474,2517,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
@@ -3678,7 +3679,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655472784,20220617,15538395933,119,43%,208,1707,96,normal,75,695,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1655452788,20220617,15538395933,119,43%,208,1707,96,normal,75,694,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1654073175,20220601,15538395933,119,43%,208,1772,96,normal,62,492,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
-1666664363,20221025,16604914064,118,51%,241,200,11,normal,138,651,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1666672573,20221025,16604914064,115,52%,241,50,11,normal,138,651,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1666664363,20221025,16604914064,118,51%,241,200,11,normal,138,651,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1666640901,20221024,16604914064,118,51%,241,200,11,normal,138,652,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1666620102,20221024,16604914064,118,51%,241,200,12,normal,138,652,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1666607318,20221024,16604914064,115,52%,241,50,12,normal,138,652,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
