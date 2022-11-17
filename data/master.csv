@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1668685011,20221117,8897653002,16,,0,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1668688690,20221117,8897653002,16,,0,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1668685011,20221117,8897653002,16,,0,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1668683679,20221117,8897653002,16,,0,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1668681711,20221117,8897653002,16,,0,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1668680349,20221117,8897653002,16,,0,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
@@ -4182,7 +4183,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655472784,20220617,15538395933,119,43%,208,1707,96,normal,75,695,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1655452788,20220617,15538395933,119,43%,208,1707,96,normal,75,694,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1654073175,20220601,15538395933,119,43%,208,1772,96,normal,62,492,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
-1668660358,20221117,15574703473,70,57%,164,440,356,normal,307,2126,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,True
+1668688693,20221117,15574703473,70,57%,164,439,356,normal,307,2126,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,True
+1668660358,20221117,15574703473,70,57%,164,440,356,normal,307,2126,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1668658932,20221117,15574703473,70,57%,164,440,356,normal,307,2125,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1668657265,20221117,15574703473,69,58%,164,41,356,normal,307,2123,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1668654785,20221117,15574703473,69,58%,164,42,356,normal,307,2123,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
