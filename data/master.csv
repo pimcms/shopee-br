@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1668709305,20221117,8897653002,16,,0,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1668710669,20221117,8897653002,16,,0,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1668709305,20221117,8897653002,16,,0,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1668706817,20221117,8897653002,16,,0,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1668705492,20221117,8897653002,16,,0,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1668704111,20221117,8897653002,16,,0,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
@@ -1312,7 +1313,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655469378,20220617,13992870026,72,52%,151,20865,1,normal,0,213,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1655452792,20220617,13992870026,72,52%,151,20865,1,normal,0,212,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1654077195,20220601,13992870026,72,52%,151,20872,0,normal,0,33,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
-1668704112,20221117,14005641874,69,60%,175,135,43,normal,62,572,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,True
+1668710670,20221117,14005641874,69,60%,175,135,43,normal,62,573,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,True
+1668704112,20221117,14005641874,69,60%,175,135,43,normal,62,572,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,False
 1668702352,20221117,14005641874,69,60%,175,135,43,normal,62,571,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,False
 1668692118,20221117,14005641874,69,60%,175,135,43,normal,62,570,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,False
 1668653575,20221117,14005641874,69,60%,175,135,43,normal,62,569,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,False
