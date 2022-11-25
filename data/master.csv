@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1669350508,20221125,8897653002,9,40%,16,40219,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1669380018,20221125,8897653002,9,40%,16,40093,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1669350508,20221125,8897653002,9,40%,16,40219,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1669003268,20221121,8897653002,9,40%,16,36019,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1668994894,20221121,8897653002,9,40%,16,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1668908689,20221120,8897653002,9,40%,16,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
@@ -524,7 +525,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668735877,20221118,11386891528,69,50%,138,10262,2,normal,63,641,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
 1668716340,20221117,11386891528,69,50%,138,10262,2,normal,63,641,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
 1668653576,20221117,11386891528,69,50%,138,10262,3,normal,63,641,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
-1669375074,20221125,11975332853,44,59%,74,50975,69,normal,124,3152,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,True
+1669380029,20221125,11975332853,44,59%,74,50975,69,normal,124,3153,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,True
+1669375074,20221125,11975332853,44,59%,74,50975,69,normal,124,3152,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
 1669371782,20221125,11975332853,44,59%,74,50975,69,normal,124,3151,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
 1669369195,20221125,11975332853,44,59%,74,50975,69,normal,124,3150,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
 1669357612,20221125,11975332853,44,59%,74,50975,69,normal,124,3149,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
@@ -546,7 +548,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668965917,20221120,11975332853,49,54%,74,61015,70,normal,121,3059,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
 1668964523,20221120,11975332853,49,54%,74,61014,70,normal,121,3058,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
 1668962730,20221120,11975332853,49,54%,74,61014,70,normal,121,3057,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
-1669368009,20221125,13992870026,42,53%,90,18263,1,normal,28,805,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,True
+1669380018,20221125,13992870026,42,53%,90,18263,1,normal,28,806,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,True
+1669368009,20221125,13992870026,42,53%,90,18263,1,normal,28,805,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1669350509,20221125,13992870026,42,53%,90,18613,1,normal,28,805,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1669015025,20221121,13992870026,42,53%,90,18613,1,normal,28,805,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1669013246,20221121,13992870026,42,53%,90,16863,1,normal,28,805,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
@@ -1434,7 +1437,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1669357613,20221125,14218005504,94,31%,136,1000,172,normal,325,7620,Kit Brinquedos De Maquiagem Para Crianças Menina Lavável Cosméticos Definir Jogo Fingir Princesa,False
 1669350519,20221125,14218005504,94,31%,136,1000,172,normal,325,7619,Kit Brinquedos De Maquiagem Para Crianças Menina Lavável Cosméticos Definir Jogo Fingir Princesa,False
 1669024621,20221121,14218005504,94,31%,136,999,193,normal,317,7521,Kit Brinquedos De Maquiagem Para Crianças Menina Lavável Cosméticos Definir Jogo Fingir Princesa,False
-1669365852,20221125,14471773624,78,57%,173,2095,4,normal,46,223,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,True
+1669380017,20221125,14471773624,78,57%,173,2086,4,normal,46,223,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,True
+1669365852,20221125,14471773624,78,57%,173,2095,4,normal,46,223,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1669350508,20221125,14471773624,78,57%,173,2695,4,normal,46,223,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1669000619,20221121,14471773624,75,57%,173,2395,3,normal,45,220,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1668994893,20221121,14471773624,134,55%,299,8801,3,normal,45,220,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
@@ -4388,7 +4392,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655472784,20220617,15538395933,119,43%,208,1707,96,normal,75,695,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1655452788,20220617,15538395933,119,43%,208,1707,96,normal,75,694,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1654073175,20220601,15538395933,119,43%,208,1772,96,normal,62,492,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
-1669376322,20221125,15574703473,69,58%,164,496,384,normal,356,2336,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,True
+1669380020,20221125,15574703473,69,58%,164,494,384,normal,356,2336,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,True
+1669376322,20221125,15574703473,69,58%,164,496,384,normal,356,2336,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1669375067,20221125,15574703473,69,58%,164,497,384,normal,356,2336,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1669372928,20221125,15574703473,69,58%,164,498,384,normal,356,2335,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1669371774,20221125,15574703473,69,58%,164,498,384,normal,355,2335,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
@@ -4498,7 +4503,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668653576,20221117,15574703473,70,57%,164,399,356,normal,307,2122,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1669368021,20221125,16448275779,73,37%,116,2230,54,offensive_hide,89,859,4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,True
 1669350520,20221125,16448275779,73,37%,116,2280,54,offensive_hide,89,859,4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
-1669376327,20221125,16588934345,50,,0,1242,2,normal,1,10790,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,True
+1669380025,20221125,16588934345,50,,0,1242,2,normal,1,10790,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,True
+1669376327,20221125,16588934345,50,,0,1242,2,normal,1,10790,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1669372933,20221125,16588934345,30,39%,50,1241,2,normal,1,10790,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1669371779,20221125,16588934345,30,39%,50,1242,2,normal,1,10790,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1669369192,20221125,16588934345,30,39%,50,1242,2,normal,1,10788,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
@@ -5662,7 +5668,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655452789,20220617,16604914064,115,52%,241,9889,40,normal,31,231,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1654077191,20220601,16604914064,115,52%,241,9923,16,normal,13,157,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1654073177,20220601,16604914064,115,52%,241,9924,16,normal,13,157,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
-1669376331,20221125,18055298116,16,80%,80,83,34,normal,15,1319,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas HYOY,True
+1669380030,20221125,18055298116,16,80%,80,78,34,normal,15,1331,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas HYOY,True
+1669376331,20221125,18055298116,16,80%,80,83,34,normal,15,1319,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas HYOY,False
 1669375075,20221125,18055298116,16,80%,80,85,34,normal,15,1321,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas HYOY,False
 1669372938,20221125,18055298116,16,80%,80,86,34,normal,15,1315,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas HYOY,False
 1669371783,20221125,18055298116,16,80%,80,89,34,normal,15,1315,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas HYOY,False
@@ -5683,7 +5690,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668901161,20221119,18253506491,45,76%,184,17984,0,normal,0,88,Kit De Maquiagem Infantil De 30 Peças Lavável/Portátil Para Meninas,False
 1668853113,20221119,18253506491,45,76%,184,17984,0,normal,0,87,Kit De Maquiagem Infantil De 30 Peças Lavável/Portátil Para Meninas,False
 1668825383,20221119,18253506491,45,76%,184,17984,0,normal,0,86,Kit De Maquiagem Infantil De 30 Peças Lavável/Portátil Para Meninas,False
-1669376325,20221125,18553582931,240,53%,496,279172,32,normal,25,593,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,True
+1669380023,20221125,18553582931,240,53%,496,279172,32,normal,25,594,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,True
+1669376325,20221125,18553582931,240,53%,496,279172,32,normal,25,593,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
 1669372931,20221125,18553582931,240,53%,496,279172,32,normal,25,592,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
 1669371777,20221125,18553582931,240,53%,496,279173,32,normal,25,592,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
 1669364796,20221125,18553582931,240,53%,496,279174,32,normal,25,592,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
@@ -5724,7 +5732,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668774862,20221118,18553582931,240,53%,496,279196,15,normal,13,517,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
 1668771425,20221118,18553582931,240,53%,496,279196,15,normal,13,516,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
 1668769975,20221118,18553582931,240,53%,496,279196,15,normal,13,515,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
-1669376323,20221125,19756333237,240,51%,492,136324,24,normal,19,694,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,True
+1669380021,20221125,19756333237,240,51%,492,136324,24,normal,19,695,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,True
+1669376323,20221125,19756333237,240,51%,492,136324,24,normal,19,694,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
 1669375068,20221125,19756333237,240,51%,492,136325,24,normal,19,694,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
 1669372929,20221125,19756333237,240,51%,492,136327,24,normal,19,693,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
 1669371775,20221125,19756333237,240,51%,492,136327,24,normal,19,691,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
@@ -5812,7 +5821,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668886650,20221119,19914155238,99,40%,163,196,252,normal,312,3512,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,False
 1668875042,20221119,19914155238,99,40%,163,196,247,normal,312,3512,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,False
 1668841441,20221119,19914155238,99,40%,163,196,247,normal,311,3512,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,False
-1669376329,20221125,20248001382,20,,0,2997,0,banned,0,14,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",True
+1669380027,20221125,20248001382,20,,0,2997,0,banned,0,14,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",True
+1669376329,20221125,20248001382,20,,0,2997,0,banned,0,14,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
 1669375073,20221125,20248001382,20,,0,2997,0,banned,0,14,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
 1669372935,20221125,20248001382,20,,0,2997,0,banned,0,14,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
 1669371781,20221125,20248001382,20,,0,2997,0,banned,0,14,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
@@ -5926,7 +5936,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668814793,20221118,20259829434,225,65%,650,9996,0,normal,0,13,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668802743,20221118,20259829434,225,65%,650,9996,0,normal,0,14,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668769974,20221118,20259829434,225,65%,650,9996,0,normal,0,13,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
-1669376330,20221125,20859416263,5,,0,1542,0,normal,0,99,Pingente de Natal Harry Potter feltro,True
+1669380029,20221125,20859416263,5,,0,1542,0,normal,0,99,Pingente de Natal Harry Potter feltro,True
+1669376330,20221125,20859416263,5,,0,1542,0,normal,0,99,Pingente de Natal Harry Potter feltro,False
 1669375074,20221125,20859416263,5,,0,1542,0,normal,0,99,Pingente de Natal Harry Potter feltro,False
 1669372936,20221125,20859416263,5,,0,1542,0,normal,0,99,Pingente de Natal Harry Potter feltro,False
 1669371782,20221125,20859416263,5,,0,1542,0,normal,0,99,Pingente de Natal Harry Potter feltro,False
@@ -5973,7 +5984,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668964523,20221120,20859416263,5,,0,1634,0,normal,0,82,Pingente de Natal Harry Potter feltro,False
 1668963066,20221120,20859416263,5,,0,1634,0,normal,0,82,Pingente de Natal Harry Potter feltro,False
 1668962730,20221120,20859416263,5,,0,1634,0,normal,0,82,Pingente de Natal Harry Potter feltro,False
-1669376325,20221125,20859436542,42,,0,39996,0,offensive_hide,0,2670,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,True
+1669380023,20221125,20859436542,42,,0,39996,0,offensive_hide,0,2670,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,True
+1669376325,20221125,20859436542,42,,0,39996,0,offensive_hide,0,2670,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1669350514,20221125,20859436542,30,28%,42,39996,0,offensive_hide,0,2670,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1669016258,20221121,20859436542,31,39%,50,1856,0,normal,0,1895,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1669013251,20221121,20859436542,31,39%,50,1856,0,normal,0,1894,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
@@ -6090,7 +6102,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668774862,20221118,20859436542,31,39%,50,1900,0,normal,0,1031,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1668771426,20221118,20859436542,31,39%,50,1901,0,normal,0,1004,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1668769975,20221118,20859436542,31,39%,50,1902,0,normal,0,994,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
-1669375073,20221125,21863325818,30,66%,91,4263,0,normal,0,201,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,True
+1669380027,20221125,21863325818,30,66%,91,4251,0,normal,0,203,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,True
+1669375073,20221125,21863325818,30,66%,91,4263,0,normal,0,201,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1669372935,20221125,21863325818,30,66%,91,4263,0,normal,0,200,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1669371781,20221125,21863325818,30,66%,91,4262,0,normal,0,200,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1669365862,20221125,21863325818,30,66%,91,4262,0,normal,0,198,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
@@ -6109,7 +6122,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668942843,20221120,21863325818,30,66%,91,3905,0,normal,0,6,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1668939535,20221120,21863325818,30,66%,91,3905,0,normal,0,5,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1668917270,20221120,21863325818,30,66%,91,3905,0,normal,0,4,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
-1669376324,20221125,21957606138,199,53%,422,144651,1,normal,1,85,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",True
+1669380022,20221125,21957606138,199,53%,422,144651,1,normal,1,86,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",True
+1669376324,20221125,21957606138,199,53%,422,144651,1,normal,1,85,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",False
 1669375069,20221125,21957606138,199,53%,422,144651,1,normal,1,84,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",False
 1669368013,20221125,21957606138,199,53%,422,144651,1,normal,1,83,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",False
 1669353524,20221125,21957606138,199,53%,422,144651,1,normal,1,82,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",False
@@ -6167,7 +6181,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668797182,20221118,22003303123,225,50%,451,9997,0,normal,0,99,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668778548,20221118,22003303123,225,50%,451,9997,0,normal,0,98,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668769974,20221118,22003303123,225,50%,451,9998,0,normal,0,98,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
-1669376326,20221125,22006088115,53,,0,1960,0,normal,0,113,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,True
+1669380024,20221125,22006088115,53,,0,1960,0,normal,0,113,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,True
+1669376326,20221125,22006088115,53,,0,1960,0,normal,0,113,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1669372932,20221125,22006088115,30,43%,53,1960,0,normal,0,113,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1669371778,20221125,22006088115,30,43%,53,1961,0,normal,0,113,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1669369192,20221125,22006088115,30,43%,53,1962,0,normal,0,112,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
@@ -6222,7 +6237,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668788715,20221118,22006088115,30,42%,53,1997,0,new,0,0,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1668782413,20221118,22006088115,30,42%,53,1999,0,new,0,0,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1668779517,20221118,22006088115,30,42%,53,2000,0,new,0,0,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
-1669376328,20221125,22203769434,58,,0,18000,0,normal,0,9,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,True
+1669380026,20221125,22203769434,58,,0,18000,0,normal,0,9,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,True
+1669376328,20221125,22203769434,58,,0,18000,0,normal,0,9,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
 1669375073,20221125,22203769434,58,,0,18000,0,normal,0,9,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
 1669372934,20221125,22203769434,58,,0,18000,0,normal,0,9,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
 1669371780,20221125,22203769434,58,,0,18000,0,normal,0,9,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
