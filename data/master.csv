@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1669003268,20221121,8897653002,9,40%,16,36019,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1669350508,20221125,8897653002,9,40%,16,40219,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1669003268,20221121,8897653002,9,40%,16,36019,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1668994894,20221121,8897653002,9,40%,16,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1668908689,20221120,8897653002,9,40%,16,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1668821999,20221119,8897653002,9,40%,16,36145,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
@@ -515,14 +516,16 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655505586,20220617,10190871203,142,68%,445,12421,28,normal,22,70,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1655452790,20220617,10190871203,142,68%,445,12422,28,normal,22,70,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1654073178,20220601,10190871203,142,68%,445,12425,25,normal,17,62,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
-1669003270,20221121,11386891528,69,50%,138,10259,2,normal,63,642,"Pulseira Conjunto Para Fazer Jóias , Talão/Artesanato Kit , 3mm Semente De Vidro Do Coração Carta De Amor Diy Arte B",True
-1668994896,20221121,11386891528,69,50%,138,10262,2,normal,63,642,"Pulseira Conjunto Para Fazer Jóias , Talão/Artesanato Kit , 3mm Semente De Vidro Do Coração Carta De Amor Diy Arte B",False
-1668908692,20221120,11386891528,69,50%,138,10262,2,normal,63,642,"Pulseira Conjunto Para Fazer Jóias , Talão/Artesanato Kit , 3mm Semente De Vidro Do Coração Carta De Amor Diy Arte B",False
-1668822001,20221119,11386891528,69,50%,138,10262,2,normal,63,642,"Pulseira Conjunto Para Fazer Jóias , Talão/Artesanato Kit , 3mm Semente De Vidro Do Coração Carta De Amor Diy Arte B",False
-1668735877,20221118,11386891528,69,50%,138,10262,2,normal,63,641,"Pulseira Conjunto Para Fazer Jóias , Talão/Artesanato Kit , 3mm Semente De Vidro Do Coração Carta De Amor Diy Arte B",False
-1668716340,20221117,11386891528,69,50%,138,10262,2,normal,63,641,"Pulseira Conjunto Para Fazer Jóias , Talão/Artesanato Kit , 3mm Semente De Vidro Do Coração Carta De Amor Diy Arte B",False
-1668653576,20221117,11386891528,69,50%,138,10262,3,normal,63,641,"Pulseira Conjunto Para Fazer Jóias , Talão/Artesanato Kit , 3mm Semente De Vidro Do Coração Carta De Amor Diy Arte B",False
-1669009148,20221121,11975332853,49,52%,74,140121,69,normal,122,3071,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,True
+1669350511,20221125,11386891528,69,50%,138,10358,2,normal,63,642,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,True
+1669003270,20221121,11386891528,69,50%,138,10259,2,normal,63,642,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
+1668994896,20221121,11386891528,69,50%,138,10262,2,normal,63,642,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
+1668908692,20221120,11386891528,69,50%,138,10262,2,normal,63,642,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
+1668822001,20221119,11386891528,69,50%,138,10262,2,normal,63,642,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
+1668735877,20221118,11386891528,69,50%,138,10262,2,normal,63,641,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
+1668716340,20221117,11386891528,69,50%,138,10262,2,normal,63,641,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
+1668653576,20221117,11386891528,69,50%,138,10262,3,normal,63,641,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
+1669350518,20221125,11975332853,44,59%,74,50975,69,normal,124,3147,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,True
+1669009148,20221121,11975332853,49,52%,74,140121,69,normal,122,3071,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
 1669003278,20221121,11975332853,49,52%,74,140121,69,normal,122,3070,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
 1669000630,20221121,11975332853,49,52%,74,140122,69,normal,122,3070,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
 1668994904,20221121,11975332853,49,54%,74,61016,69,normal,122,3070,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
@@ -538,7 +541,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668965917,20221120,11975332853,49,54%,74,61015,70,normal,121,3059,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
 1668964523,20221120,11975332853,49,54%,74,61014,70,normal,121,3058,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
 1668962730,20221120,11975332853,49,54%,74,61014,70,normal,121,3057,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
-1669015025,20221121,13992870026,42,53%,90,18613,1,normal,28,805,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,True
+1669350509,20221125,13992870026,42,53%,90,18613,1,normal,28,805,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,True
+1669015025,20221121,13992870026,42,53%,90,18613,1,normal,28,805,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1669013246,20221121,13992870026,42,53%,90,16863,1,normal,28,805,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1669011877,20221121,13992870026,42,53%,90,15113,1,normal,28,805,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1668994894,20221121,13992870026,42,53%,90,13713,1,normal,28,805,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
@@ -1400,7 +1404,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655469378,20220617,13992870026,72,52%,151,20865,1,normal,0,213,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1655452792,20220617,13992870026,72,52%,151,20865,1,normal,0,212,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
 1654077195,20220601,13992870026,72,52%,151,20872,0,normal,0,33,Organizador De Joias Armazenamento Couro Portátil brinco Multifuncional Porta Joias De Com Caixa,False
-1668994895,20221121,14005641874,69,60%,175,132,42,normal,62,580,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,True
+1669350509,20221125,14005641874,69,60%,175,98,44,normal,64,589,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,True
+1668994895,20221121,14005641874,69,60%,175,132,42,normal,62,580,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,False
 1668983978,20221120,14005641874,69,60%,175,132,42,normal,62,580,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,False
 1668953720,20221120,14005641874,69,60%,175,134,42,normal,62,580,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,False
 1668908690,20221120,14005641874,69,60%,175,134,42,normal,62,579,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,False
@@ -1419,8 +1424,10 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668702352,20221117,14005641874,69,60%,175,135,43,normal,62,571,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,False
 1668692118,20221117,14005641874,69,60%,175,135,43,normal,62,570,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,False
 1668653575,20221117,14005641874,69,60%,175,135,43,normal,62,569,Kit De Miçangas Para Semente De Letras Do Alfabeto 5000 Pçs Fazer Joias/Presente,False
-1669024621,20221121,14218005504,94,31%,136,999,193,normal,317,7521,Kit Brinquedos De Maquiagem Para Crianças Menina Lavável Cosméticos Definir Jogo Fingir Princesa,True
-1669000619,20221121,14471773624,75,57%,173,2395,3,normal,45,220,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,True
+1669350519,20221125,14218005504,94,31%,136,1000,172,normal,325,7619,Kit Brinquedos De Maquiagem Para Crianças Menina Lavável Cosméticos Definir Jogo Fingir Princesa,True
+1669024621,20221121,14218005504,94,31%,136,999,193,normal,317,7521,Kit Brinquedos De Maquiagem Para Crianças Menina Lavável Cosméticos Definir Jogo Fingir Princesa,False
+1669350508,20221125,14471773624,78,57%,173,2695,4,normal,46,223,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,True
+1669000619,20221121,14471773624,75,57%,173,2395,3,normal,45,220,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1668994893,20221121,14471773624,134,55%,299,8801,3,normal,45,220,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1668982584,20221120,14471773624,134,55%,299,8801,3,normal,45,220,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1668908689,20221120,14471773624,134,55%,299,8801,3,normal,45,219,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
@@ -1914,7 +1921,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655516598,20220618,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1655452791,20220617,14471773624,134,55%,299,8874,22,normal,17,90,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1654073179,20220601,14471773624,134,55%,299,8880,26,normal,13,81,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
-1668994895,20221121,14605640215,69,61%,180,688,4,normal,284,2274,"5000 Pcs Contas Kit, 3mm De Vidro Missangas, Contas Letra Do Alfabeto E Contas Da Forma Do Coração Para O Nome Pulseiras Fazer Jóias E Artesanato",True
+1669350510,20221125,14605640215,69,61%,180,687,4,normal,284,2276,"5000 Pcs Contas Kit, 3mm De Vidro Missangas, Contas Letra Do Alfabeto E Contas Da Forma Do Coração Para O Nome Pulseiras Fazer Jóias E Artesanato",True
+1668994895,20221121,14605640215,69,61%,180,688,4,normal,284,2274,"5000 Pcs Contas Kit, 3mm De Vidro Missangas, Contas Letra Do Alfabeto E Contas Da Forma Do Coração Para O Nome Pulseiras Fazer Jóias E Artesanato",False
 1668975484,20221120,14605640215,69,61%,180,688,4,normal,284,2273,"5000 Pcs Contas Kit, 3mm De Vidro Missangas, Contas Letra Do Alfabeto E Contas Da Forma Do Coração Para O Nome Pulseiras Fazer Jóias E Artesanato",False
 1668968448,20221120,14605640215,69,61%,180,688,5,normal,284,2273,"5000 Pcs Contas Kit, 3mm De Vidro Missangas, Contas Letra Do Alfabeto E Contas Da Forma Do Coração Para O Nome Pulseiras Fazer Jóias E Artesanato",False
 1668961439,20221120,14605640215,69,61%,180,688,5,normal,284,2274,"5000 Pcs Contas Kit, 3mm De Vidro Missangas, Contas Letra Do Alfabeto E Contas Da Forma Do Coração Para O Nome Pulseiras Fazer Jóias E Artesanato",False
@@ -1927,7 +1935,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668706819,20221117,14605640215,69,61%,180,688,5,normal,284,2274,"5000 Pcs Contas Kit, 3mm De Vidro Missangas, Contas Letra Do Alfabeto E Contas Da Forma Do Coração Para O Nome Pulseiras Fazer Jóias E Artesanato",False
 1668660357,20221117,14605640215,69,61%,180,689,5,normal,284,2274,"5000 Pcs Contas Kit, 3mm De Vidro Missangas, Contas Letra Do Alfabeto E Contas Da Forma Do Coração Para O Nome Pulseiras Fazer Jóias E Artesanato",False
 1668653575,20221117,14605640215,69,61%,180,689,5,normal,284,2273,"5000 Pcs Contas Kit, 3mm De Vidro Missangas, Contas Letra Do Alfabeto E Contas Da Forma Do Coração Para O Nome Pulseiras Fazer Jóias E Artesanato",False
-1669003265,20221121,15538395933,118,43%,208,7501,113,normal,521,2711,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1669350506,20221125,15538395933,113,45%,208,2000,106,normal,531,2743,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,True
+1669003265,20221121,15538395933,118,43%,208,7501,113,normal,521,2711,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1669000617,20221121,15538395933,118,43%,208,7504,113,normal,521,2711,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1668994891,20221121,15538395933,113,45%,208,1980,113,normal,521,2711,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1668983976,20221120,15538395933,113,45%,208,1981,113,normal,521,2711,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
@@ -4369,7 +4378,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655472784,20220617,15538395933,119,43%,208,1707,96,normal,75,695,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1655452788,20220617,15538395933,119,43%,208,1707,96,normal,75,694,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
 1654073175,20220601,15538395933,119,43%,208,1772,96,normal,62,492,24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa,False
-1669022318,20221121,15574703473,70,57%,164,714,371,normal,326,2225,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,True
+1669350510,20221125,15574703473,69,58%,164,500,384,normal,355,2331,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,True
+1669022318,20221121,15574703473,70,57%,164,714,371,normal,326,2225,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1669015027,20221121,15574703473,69,58%,164,42,371,normal,326,2223,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1669011878,20221121,15574703473,69,58%,164,42,371,normal,326,2222,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1669007815,20221121,15574703473,69,58%,164,42,371,normal,326,2221,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
@@ -4467,7 +4477,9 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668657265,20221117,15574703473,69,58%,164,41,356,normal,307,2123,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1668654785,20221117,15574703473,69,58%,164,42,356,normal,307,2123,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1668653576,20221117,15574703473,70,57%,164,399,356,normal,307,2122,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
-1669024619,20221121,16588934345,30,39%,50,1182,0,normal,0,9809,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,True
+1669350520,20221125,16448275779,73,37%,116,2280,54,offensive_hide,89,859,4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,True
+1669350515,20221125,16588934345,30,39%,50,1245,2,normal,1,10777,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,True
+1669024619,20221121,16588934345,30,39%,50,1182,0,normal,0,9809,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1669023632,20221121,16588934345,30,39%,50,1182,0,normal,0,9806,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1669022323,20221121,16588934345,30,39%,50,1180,0,normal,0,9798,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1669020347,20221121,16588934345,30,39%,50,1180,0,normal,0,9790,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
@@ -4587,7 +4599,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668782413,20221118,16588934345,30,39%,50,1288,0,normal,0,7633,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1668781070,20221118,16588934345,30,39%,50,1276,0,normal,0,7610,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1668779518,20221118,16588934345,30,39%,50,1269,0,normal,0,7578,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
-1669000617,20221121,16604914064,118,51%,241,500,13,normal,142,680,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1669350507,20221125,16604914064,115,52%,241,200,14,normal,143,679,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1669000617,20221121,16604914064,118,51%,241,500,13,normal,142,680,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1668994892,20221121,16604914064,118,51%,241,499,13,normal,142,680,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1668968444,20221120,16604914064,118,51%,241,499,13,normal,142,680,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1668955078,20221120,16604914064,118,51%,241,499,13,normal,142,681,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
@@ -5618,14 +5631,17 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655452789,20220617,16604914064,115,52%,241,9889,40,normal,31,231,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1654077191,20220601,16604914064,115,52%,241,9923,16,normal,13,157,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1654073177,20220601,16604914064,115,52%,241,9924,16,normal,13,157,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
-1669000627,20221121,18253506491,45,76%,184,17983,0,normal,0,90,Kit De Maquiagem Infantil De 30 Peças Lavável/Portátil Para Meninas,True
+1669350520,20221125,18055298116,16,80%,80,94,34,normal,15,1297,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas HYOY,True
+1669350516,20221125,18253506491,45,76%,184,17986,0,normal,0,96,Kit De Maquiagem Infantil De 30 Peças Lavável/Portátil Para Meninas,True
+1669000627,20221121,18253506491,45,76%,184,17983,0,normal,0,90,Kit De Maquiagem Infantil De 30 Peças Lavável/Portátil Para Meninas,False
 1668994901,20221121,18253506491,45,76%,184,17983,0,normal,0,89,Kit De Maquiagem Infantil De 30 Peças Lavável/Portátil Para Meninas,False
 1668947528,20221120,18253506491,45,76%,184,17984,0,normal,0,89,Kit De Maquiagem Infantil De 30 Peças Lavável/Portátil Para Meninas,False
 1668908697,20221120,18253506491,45,76%,184,17984,0,normal,0,88,Kit De Maquiagem Infantil De 30 Peças Lavável/Portátil Para Meninas,False
 1668901161,20221119,18253506491,45,76%,184,17984,0,normal,0,88,Kit De Maquiagem Infantil De 30 Peças Lavável/Portátil Para Meninas,False
 1668853113,20221119,18253506491,45,76%,184,17984,0,normal,0,87,Kit De Maquiagem Infantil De 30 Peças Lavável/Portátil Para Meninas,False
 1668825383,20221119,18253506491,45,76%,184,17984,0,normal,0,86,Kit De Maquiagem Infantil De 30 Peças Lavável/Portátil Para Meninas,False
-1669000625,20221121,18553582931,240,53%,496,279190,26,normal,15,546,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,True
+1669350513,20221125,18553582931,240,53%,496,279175,32,normal,25,591,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,True
+1669000625,20221121,18553582931,240,53%,496,279190,26,normal,15,546,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
 1668994899,20221121,18553582931,240,53%,496,279190,26,normal,15,544,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
 1668987626,20221120,18553582931,240,53%,496,279190,26,normal,15,541,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
 1668986334,20221120,18553582931,240,53%,496,279191,26,normal,15,541,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
@@ -5660,72 +5676,74 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668774862,20221118,18553582931,240,53%,496,279196,15,normal,13,517,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
 1668771425,20221118,18553582931,240,53%,496,279196,15,normal,13,516,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
 1668769975,20221118,18553582931,240,53%,496,279196,15,normal,13,515,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
-1669022319,20221121,19756333237,240,51%,492,136359,15,normal,11,582,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,True
-1669007816,20221121,19756333237,240,51%,492,136359,15,normal,11,581,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1669006152,20221121,19756333237,240,51%,492,136358,15,normal,11,580,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1669000623,20221121,19756333237,240,51%,492,136359,15,normal,11,580,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668994897,20221121,19756333237,240,51%,492,136358,15,normal,11,578,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668987624,20221120,19756333237,240,51%,492,136358,15,normal,11,574,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668986332,20221120,19756333237,240,51%,492,136359,15,normal,11,574,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668982588,20221120,19756333237,240,51%,492,136359,15,normal,11,572,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668980248,20221120,19756333237,240,51%,492,136360,15,normal,11,571,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668978901,20221120,19756333237,240,51%,492,136359,15,normal,11,571,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668976764,20221120,19756333237,240,51%,492,136359,15,normal,11,570,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668975485,20221120,19756333237,240,51%,492,136359,15,normal,11,569,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668973039,20221120,19756333237,240,51%,492,136359,15,normal,11,568,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668969778,20221120,19756333237,240,51%,492,136359,13,normal,11,568,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668964516,20221120,19756333237,240,51%,492,136358,13,normal,11,567,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668961440,20221120,19756333237,240,51%,492,136359,13,normal,11,567,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668958819,20221120,19756333237,240,51%,492,136359,13,normal,11,566,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668957448,20221120,19756333237,240,51%,492,136359,13,normal,11,565,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668955082,20221120,19756333237,240,51%,492,136360,13,normal,11,563,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668953722,20221120,19756333237,240,51%,492,136360,13,normal,11,562,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668950796,20221120,19756333237,240,51%,492,136361,13,normal,11,561,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668947525,20221120,19756333237,240,51%,492,136360,13,normal,11,560,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668944214,20221120,19756333237,240,51%,492,136361,13,normal,11,560,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668942836,20221120,19756333237,240,51%,492,136361,13,normal,11,558,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668939529,20221120,19756333237,240,51%,492,136362,13,normal,11,557,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668918618,20221120,19756333237,240,51%,492,136361,13,normal,11,556,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668914350,20221120,19756333237,240,51%,492,136360,13,normal,11,556,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668908692,20221120,19756333237,240,51%,492,136360,13,normal,11,554,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668901156,20221119,19756333237,240,51%,492,136361,13,normal,11,549,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668899854,20221119,19756333237,240,51%,492,136361,13,normal,11,547,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668893843,20221119,19756333237,240,51%,492,136361,13,normal,11,546,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668892518,20221119,19756333237,240,51%,492,136362,13,normal,11,546,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668890354,20221119,19756333237,240,51%,492,136362,13,normal,11,545,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668886645,20221119,19756333237,240,51%,492,136362,13,normal,11,544,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668885224,20221119,19756333237,240,51%,492,136362,11,normal,11,544,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668883400,20221119,19756333237,240,51%,492,136363,11,normal,11,544,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668882060,20221119,19756333237,240,51%,492,136364,11,normal,11,544,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668879488,20221119,19756333237,240,51%,492,136363,11,normal,11,543,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668876662,20221119,19756333237,240,51%,492,136363,11,normal,11,542,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668875036,20221119,19756333237,240,51%,492,136363,11,normal,11,541,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668871061,20221119,19756333237,240,51%,492,136363,11,normal,11,540,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668864379,20221119,19756333237,240,51%,492,136362,11,normal,11,540,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668861109,20221119,19756333237,240,51%,492,136363,11,normal,11,538,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668857817,20221119,19756333237,240,51%,492,136363,11,normal,11,536,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668853109,20221119,19756333237,240,51%,492,136363,11,normal,11,535,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668850711,20221119,19756333237,240,51%,492,136364,11,normal,11,534,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668847877,20221119,19756333237,240,51%,492,136364,11,normal,11,533,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668825378,20221119,19756333237,240,51%,492,136365,11,normal,11,533,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668822002,20221119,19756333237,240,51%,492,136367,11,normal,11,531,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668814792,20221118,19756333237,240,51%,492,136367,11,normal,11,524,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668811290,20221118,19756333237,240,51%,492,136367,11,normal,11,523,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668809864,20221118,19756333237,240,51%,492,136367,11,normal,11,522,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668807491,20221118,19756333237,240,51%,492,136367,11,normal,11,521,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668806162,20221118,19756333237,240,51%,492,136367,11,normal,11,520,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668800240,20221118,19756333237,240,51%,492,136368,11,normal,11,519,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668797182,20221118,19756333237,240,51%,492,136368,9,normal,11,519,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668795843,20221118,19756333237,240,51%,492,136368,9,normal,10,519,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668791836,20221118,19756333237,240,51%,492,136369,9,normal,10,517,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668788713,20221118,19756333237,240,51%,492,136367,9,normal,10,517,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668786093,20221118,19756333237,240,51%,492,136368,9,normal,10,515,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668782409,20221118,19756333237,240,51%,492,136368,9,normal,10,514,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668781066,20221118,19756333237,240,51%,492,136370,9,normal,10,513,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668778548,20221118,19756333237,240,51%,492,136370,9,normal,10,511,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668771423,20221118,19756333237,240,51%,492,136372,9,normal,10,511,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668769973,20221118,19756333237,240,51%,492,136372,9,normal,10,510,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150,False
-1668994902,20221121,19914155238,99,40%,163,196,253,normal,314,3511,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,True
+1669350511,20221125,19756333237,240,51%,492,136329,24,normal,19,685,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,True
+1669022319,20221121,19756333237,240,51%,492,136359,15,normal,11,582,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1669007816,20221121,19756333237,240,51%,492,136359,15,normal,11,581,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1669006152,20221121,19756333237,240,51%,492,136358,15,normal,11,580,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1669000623,20221121,19756333237,240,51%,492,136359,15,normal,11,580,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668994897,20221121,19756333237,240,51%,492,136358,15,normal,11,578,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668987624,20221120,19756333237,240,51%,492,136358,15,normal,11,574,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668986332,20221120,19756333237,240,51%,492,136359,15,normal,11,574,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668982588,20221120,19756333237,240,51%,492,136359,15,normal,11,572,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668980248,20221120,19756333237,240,51%,492,136360,15,normal,11,571,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668978901,20221120,19756333237,240,51%,492,136359,15,normal,11,571,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668976764,20221120,19756333237,240,51%,492,136359,15,normal,11,570,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668975485,20221120,19756333237,240,51%,492,136359,15,normal,11,569,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668973039,20221120,19756333237,240,51%,492,136359,15,normal,11,568,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668969778,20221120,19756333237,240,51%,492,136359,13,normal,11,568,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668964516,20221120,19756333237,240,51%,492,136358,13,normal,11,567,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668961440,20221120,19756333237,240,51%,492,136359,13,normal,11,567,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668958819,20221120,19756333237,240,51%,492,136359,13,normal,11,566,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668957448,20221120,19756333237,240,51%,492,136359,13,normal,11,565,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668955082,20221120,19756333237,240,51%,492,136360,13,normal,11,563,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668953722,20221120,19756333237,240,51%,492,136360,13,normal,11,562,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668950796,20221120,19756333237,240,51%,492,136361,13,normal,11,561,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668947525,20221120,19756333237,240,51%,492,136360,13,normal,11,560,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668944214,20221120,19756333237,240,51%,492,136361,13,normal,11,560,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668942836,20221120,19756333237,240,51%,492,136361,13,normal,11,558,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668939529,20221120,19756333237,240,51%,492,136362,13,normal,11,557,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668918618,20221120,19756333237,240,51%,492,136361,13,normal,11,556,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668914350,20221120,19756333237,240,51%,492,136360,13,normal,11,556,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668908692,20221120,19756333237,240,51%,492,136360,13,normal,11,554,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668901156,20221119,19756333237,240,51%,492,136361,13,normal,11,549,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668899854,20221119,19756333237,240,51%,492,136361,13,normal,11,547,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668893843,20221119,19756333237,240,51%,492,136361,13,normal,11,546,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668892518,20221119,19756333237,240,51%,492,136362,13,normal,11,546,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668890354,20221119,19756333237,240,51%,492,136362,13,normal,11,545,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668886645,20221119,19756333237,240,51%,492,136362,13,normal,11,544,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668885224,20221119,19756333237,240,51%,492,136362,11,normal,11,544,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668883400,20221119,19756333237,240,51%,492,136363,11,normal,11,544,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668882060,20221119,19756333237,240,51%,492,136364,11,normal,11,544,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668879488,20221119,19756333237,240,51%,492,136363,11,normal,11,543,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668876662,20221119,19756333237,240,51%,492,136363,11,normal,11,542,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668875036,20221119,19756333237,240,51%,492,136363,11,normal,11,541,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668871061,20221119,19756333237,240,51%,492,136363,11,normal,11,540,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668864379,20221119,19756333237,240,51%,492,136362,11,normal,11,540,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668861109,20221119,19756333237,240,51%,492,136363,11,normal,11,538,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668857817,20221119,19756333237,240,51%,492,136363,11,normal,11,536,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668853109,20221119,19756333237,240,51%,492,136363,11,normal,11,535,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668850711,20221119,19756333237,240,51%,492,136364,11,normal,11,534,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668847877,20221119,19756333237,240,51%,492,136364,11,normal,11,533,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668825378,20221119,19756333237,240,51%,492,136365,11,normal,11,533,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668822002,20221119,19756333237,240,51%,492,136367,11,normal,11,531,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668814792,20221118,19756333237,240,51%,492,136367,11,normal,11,524,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668811290,20221118,19756333237,240,51%,492,136367,11,normal,11,523,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668809864,20221118,19756333237,240,51%,492,136367,11,normal,11,522,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668807491,20221118,19756333237,240,51%,492,136367,11,normal,11,521,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668806162,20221118,19756333237,240,51%,492,136367,11,normal,11,520,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668800240,20221118,19756333237,240,51%,492,136368,11,normal,11,519,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668797182,20221118,19756333237,240,51%,492,136368,9,normal,11,519,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668795843,20221118,19756333237,240,51%,492,136368,9,normal,10,519,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668791836,20221118,19756333237,240,51%,492,136369,9,normal,10,517,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668788713,20221118,19756333237,240,51%,492,136367,9,normal,10,517,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668786093,20221118,19756333237,240,51%,492,136368,9,normal,10,515,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668782409,20221118,19756333237,240,51%,492,136368,9,normal,10,514,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668781066,20221118,19756333237,240,51%,492,136370,9,normal,10,513,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668778548,20221118,19756333237,240,51%,492,136370,9,normal,10,511,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668771423,20221118,19756333237,240,51%,492,136372,9,normal,10,511,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1668769973,20221118,19756333237,240,51%,492,136372,9,normal,10,510,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
+1669350516,20221125,19914155238,99,40%,163,196,247,normal,321,3508,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,True
+1668994902,20221121,19914155238,99,40%,163,196,253,normal,314,3511,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,False
 1668971630,20221120,19914155238,99,40%,163,196,253,normal,314,3512,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,False
 1668965915,20221120,19914155238,99,40%,163,196,252,normal,314,3512,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,False
 1668914355,20221120,19914155238,99,40%,163,196,252,normal,313,3512,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,False
@@ -5733,7 +5751,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668886650,20221119,19914155238,99,40%,163,196,252,normal,312,3512,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,False
 1668875042,20221119,19914155238,99,40%,163,196,247,normal,312,3512,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,False
 1668841441,20221119,19914155238,99,40%,163,196,247,normal,311,3512,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,False
-1669024620,20221121,20248001382,20,,0,2997,0,normal,0,13,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",True
+1669350517,20221125,20248001382,20,,0,2997,0,banned,0,14,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",True
+1669024620,20221121,20248001382,20,,0,2997,0,normal,0,13,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
 1669023634,20221121,20248001382,20,,0,2997,0,normal,0,13,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
 1669022325,20221121,20248001382,20,,0,2997,0,normal,0,13,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
 1669020349,20221121,20248001382,20,,0,2997,0,normal,0,13,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
@@ -5821,7 +5840,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668853115,20221119,20248001382,20,,0,2997,0,normal,0,12,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
 1668850716,20221119,20248001382,20,,0,2997,0,normal,0,12,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
 1668849385,20221119,20248001382,20,,0,2997,0,normal,0,12,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
-1668994898,20221121,20259829434,225,65%,650,9995,0,normal,0,15,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,True
+1669350512,20221125,20259829434,225,65%,650,9994,0,normal,0,17,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,True
+1668994898,20221121,20259829434,225,65%,650,9995,0,normal,0,15,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668976765,20221120,20259829434,225,65%,650,9996,0,normal,0,15,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668932513,20221120,20259829434,225,65%,650,9996,0,normal,0,14,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668908693,20221120,20259829434,225,65%,650,9996,0,normal,0,14,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
@@ -5830,7 +5850,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668814793,20221118,20259829434,225,65%,650,9996,0,normal,0,13,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668802743,20221118,20259829434,225,65%,650,9996,0,normal,0,14,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668769974,20221118,20259829434,225,65%,650,9996,0,normal,0,13,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
-1669024621,20221121,20859416263,5,,0,1634,0,normal,0,89,Pingente de Natal Harry Potter feltro,True
+1669350519,20221125,20859416263,5,,0,1542,0,normal,0,99,Pingente de Natal Harry Potter feltro,True
+1669024621,20221121,20859416263,5,,0,1634,0,normal,0,89,Pingente de Natal Harry Potter feltro,False
 1669023635,20221121,20859416263,5,,0,1634,0,normal,0,89,Pingente de Natal Harry Potter feltro,False
 1669022327,20221121,20859416263,5,,0,1634,0,normal,0,89,Pingente de Natal Harry Potter feltro,False
 1669020350,20221121,20859416263,5,,0,1634,0,normal,0,89,Pingente de Natal Harry Potter feltro,False
@@ -5861,7 +5882,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668964523,20221120,20859416263,5,,0,1634,0,normal,0,82,Pingente de Natal Harry Potter feltro,False
 1668963066,20221120,20859416263,5,,0,1634,0,normal,0,82,Pingente de Natal Harry Potter feltro,False
 1668962730,20221120,20859416263,5,,0,1634,0,normal,0,82,Pingente de Natal Harry Potter feltro,False
-1669016258,20221121,20859436542,31,39%,50,1856,0,normal,0,1895,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,True
+1669350514,20221125,20859436542,30,28%,42,39996,0,offensive_hide,0,2670,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,True
+1669016258,20221121,20859436542,31,39%,50,1856,0,normal,0,1895,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1669013251,20221121,20859436542,31,39%,50,1856,0,normal,0,1894,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1669006154,20221121,20859436542,31,39%,50,1856,0,normal,0,1893,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1669003273,20221121,20859436542,31,39%,50,1857,0,normal,0,1889,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
@@ -5976,7 +5998,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668774862,20221118,20859436542,31,39%,50,1900,0,normal,0,1031,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1668771426,20221118,20859436542,31,39%,50,1901,0,normal,0,1004,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1668769975,20221118,20859436542,31,39%,50,1902,0,normal,0,994,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
-1669022326,20221121,21863325818,30,66%,91,3886,0,offensive_hide,0,14,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,True
+1669350518,20221125,21863325818,30,66%,91,4262,0,normal,0,196,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,True
+1669022326,20221121,21863325818,30,66%,91,3886,0,offensive_hide,0,14,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1669016262,20221121,21863325818,30,66%,91,3886,0,normal,0,14,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1669003277,20221121,21863325818,30,66%,91,3886,0,normal,0,13,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1668994903,20221121,21863325818,30,66%,91,3898,0,normal,0,13,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
@@ -5989,7 +6012,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668942843,20221120,21863325818,30,66%,91,3905,0,normal,0,6,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1668939535,20221120,21863325818,30,66%,91,3905,0,normal,0,5,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1668917270,20221120,21863325818,30,66%,91,3905,0,normal,0,4,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
-1669003272,20221121,21957606138,199,53%,422,144651,1,normal,1,62,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",True
+1669350513,20221125,21957606138,199,53%,422,144651,1,normal,1,81,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",True
+1669003272,20221121,21957606138,199,53%,422,144651,1,normal,1,62,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",False
 1669000624,20221121,21957606138,199,53%,422,144650,1,normal,1,62,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",False
 1668994898,20221121,21957606138,199,53%,422,144650,1,normal,1,61,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",False
 1668978902,20221120,21957606138,199,53%,422,144650,1,normal,1,60,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",False
@@ -6009,7 +6033,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668784717,20221118,21957606138,199,53%,422,144650,0,normal,0,48,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",False
 1668781067,20221118,21957606138,199,53%,422,144650,0,normal,0,47,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",False
 1668769975,20221118,21957606138,199,53%,422,144650,0,normal,0,46,"Painel Digital De Velocidade Da Motocicleta LCD , Velocímetro Para O Brasil CG150 2004-2009 Fan150 TITAN 150 Honda",False
-1669011879,20221121,22003303123,225,50%,451,9993,1,normal,1,119,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,True
+1669350512,20221125,22003303123,214,53%,451,187,2,normal,1,150,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,True
+1669011879,20221121,22003303123,225,50%,451,9993,1,normal,1,119,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1669009142,20221121,22003303123,225,50%,451,9993,1,normal,1,118,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1669006152,20221121,22003303123,225,50%,451,9994,1,normal,1,118,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1669000623,20221121,22003303123,225,50%,451,9994,1,normal,1,117,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
@@ -6040,7 +6065,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668797182,20221118,22003303123,225,50%,451,9997,0,normal,0,99,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668778548,20221118,22003303123,225,50%,451,9997,0,normal,0,98,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668769974,20221118,22003303123,225,50%,451,9998,0,normal,0,98,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
-1669009145,20221121,22006088115,30,42%,53,1968,0,normal,0,47,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,True
+1669350515,20221125,22006088115,30,43%,53,1965,0,normal,0,111,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,True
+1669009145,20221121,22006088115,30,42%,53,1968,0,normal,0,47,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1669007819,20221121,22006088115,30,42%,53,1968,0,normal,0,46,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1669003274,20221121,22006088115,30,42%,53,1968,0,normal,0,45,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1669000626,20221121,22006088115,30,42%,53,1968,0,normal,0,44,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
@@ -6088,93 +6114,94 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668788715,20221118,22006088115,30,42%,53,1997,0,new,0,0,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1668782413,20221118,22006088115,30,42%,53,1999,0,new,0,0,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1668779517,20221118,22006088115,30,42%,53,2000,0,new,0,0,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
-1669024620,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,True
-1669023633,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1669022325,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1669020348,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1669019054,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1669016261,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1669015033,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1669013254,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1669011883,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1669009147,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1669007822,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1669006158,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1669003276,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1669000628,20221121,22203769434,58,,0,18000,0,normal,0,6,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668994902,20221121,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668987630,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668986337,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668983984,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668982593,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668980253,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668978906,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668976770,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668975490,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668973044,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668971631,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668969784,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668968455,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668965916,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668964521,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668963065,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668962728,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668961445,20221120,22203769434,58,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668958824,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668957453,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668955088,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668953728,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668951777,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668950801,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668947529,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668944218,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668942842,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668940863,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668939535,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668937128,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668935820,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668933786,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668932517,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668929792,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668928558,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668926675,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668925322,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668922712,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668921369,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668919772,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668918624,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668917269,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668916695,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668914355,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668908698,20221120,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668901161,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668899860,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668897600,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668896210,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668893849,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668892523,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668890358,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668889079,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668886650,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668885228,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668883404,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668882066,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668879493,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668878126,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668876667,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668875042,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668872419,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668871066,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668868690,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668867319,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668865353,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668864384,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668861114,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668857823,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668856439,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668854447,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668853115,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668850716,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668849384,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668848202,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
-1668847881,20221119,22203769434,49,,0,18000,0,normal,0,5,Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669350517,20221125,22203769434,58,,0,18000,0,normal,0,9,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,True
+1669024620,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669023633,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669022325,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669020348,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669019054,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669016261,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669015033,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669013254,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669011883,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669009147,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669007822,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669006158,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669003276,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1669000628,20221121,22203769434,58,,0,18000,0,normal,0,6,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668994902,20221121,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668987630,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668986337,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668983984,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668982593,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668980253,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668978906,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668976770,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668975490,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668973044,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668971631,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668969784,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668968455,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668965916,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668964521,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668963065,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668962728,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668961445,20221120,22203769434,58,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668958824,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668957453,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668955088,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668953728,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668951777,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668950801,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668947529,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668944218,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668942842,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668940863,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668939535,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668937128,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668935820,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668933786,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668932517,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668929792,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668928558,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668926675,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668925322,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668922712,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668921369,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668919772,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668918624,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668917269,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668916695,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668914355,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668908698,20221120,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668901161,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668899860,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668897600,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668896210,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668893849,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668892523,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668890358,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668889079,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668886650,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668885228,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668883404,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668882066,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668879493,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668878126,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668876667,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668875042,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668872419,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668871066,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668868690,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668867319,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668865353,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668864384,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668861114,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668857823,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668856439,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668854447,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668853115,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668850716,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668849384,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668848202,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
+1668847881,20221119,22203769434,49,,0,18000,0,normal,0,5,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
