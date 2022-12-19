@@ -1,5 +1,6 @@
 time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt_count,liked_count,item_name,is_latest
-1671413633,20221219,8897653002,9,40%,16,56305,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1671445343,20221219,8897653002,9,40%,16,60505,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",True
+1671413633,20221219,8897653002,9,40%,16,56305,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1671327361,20221218,8897653002,9,40%,16,56305,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1671269875,20221217,8897653002,9,40%,16,56305,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
 1671240870,20221217,8897653002,9,40%,16,56473,0,normal,9,12,"[in stock]100 Peças Terminais Elétricos Ilhós Tubular Simples Pré Isolado 2,5mm  VE",False
@@ -547,7 +548,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655505586,20220617,10190871203,142,68%,445,12421,28,normal,22,70,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1655452790,20220617,10190871203,142,68%,445,12422,28,normal,22,70,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
 1654073178,20220601,10190871203,142,68%,445,12425,25,normal,17,62,Luvas De Goleiro De Futebol Adidas Americano Respirável,False
-1671413636,20221219,11386891528,69,50%,138,10740,2,normal,63,648,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,True
+1671445346,20221219,11386891528,69,50%,138,10840,2,normal,63,648,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,True
+1671413636,20221219,11386891528,69,50%,138,10740,2,normal,63,648,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
 1671327364,20221218,11386891528,69,50%,138,10740,2,normal,63,648,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
 1671269878,20221217,11386891528,69,50%,138,10740,2,normal,63,647,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
 1671240873,20221217,11386891528,69,50%,138,10744,2,normal,63,647,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
@@ -605,7 +607,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668735877,20221118,11386891528,69,50%,138,10262,2,normal,63,641,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
 1668716340,20221117,11386891528,69,50%,138,10262,2,normal,63,641,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
 1668653576,20221117,11386891528,69,50%,138,10262,3,normal,63,641,4000pçs Conjunto De Pulseiras Para Confecção De Joias/Kit Artesanato 3mm Semente De Vidro Coração Carta De Amor Diy Art,False
-1671423788,20221219,11975332853,49,52%,74,150315,43,normal,138,3588,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,True
+1671445354,20221219,11975332853,49,52%,74,150315,43,normal,138,3589,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,True
+1671423788,20221219,11975332853,49,52%,74,150315,43,normal,138,3588,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
 1671420027,20221219,11975332853,49,52%,74,150316,43,normal,138,3586,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
 1671417348,20221219,11975332853,45,58%,74,1508,43,normal,138,3585,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
 1671413644,20221219,11975332853,45,58%,74,1508,43,normal,138,3582,Kit De Acessórios Para Fazer Joias / Ferramenta / Alicate Para Pulseiras / Joias Diy,False
@@ -2488,7 +2491,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1669357613,20221125,14218005504,94,31%,136,1000,172,normal,325,7620,Kit Brinquedos De Maquiagem Para Crianças Menina Lavável Cosméticos Definir Jogo Fingir Princesa,False
 1669350519,20221125,14218005504,94,31%,136,1000,172,normal,325,7619,Kit Brinquedos De Maquiagem Para Crianças Menina Lavável Cosméticos Definir Jogo Fingir Princesa,False
 1669024621,20221121,14218005504,94,31%,136,999,193,normal,317,7521,Kit Brinquedos De Maquiagem Para Crianças Menina Lavável Cosméticos Definir Jogo Fingir Princesa,False
-1671413632,20221219,14471773624,78,55%,173,16959,7,normal,49,243,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,True
+1671445342,20221219,14471773624,78,55%,173,18159,7,normal,49,243,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,True
+1671413632,20221219,14471773624,78,55%,173,16959,7,normal,49,243,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1671327361,20221218,14471773624,78,55%,173,16959,7,normal,49,243,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1671269875,20221217,14471773624,78,55%,173,16959,7,normal,49,243,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
 1671240870,20221217,14471773624,78,55%,173,17007,7,normal,49,243,[Em estoque]Luva De Goleiro Falcon Flexível E Confortável/Antiderrapante/Luvas Profissional Luvas De Treinamento Americano/Látex/Grosso,False
@@ -3153,7 +3157,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668706819,20221117,14605640215,69,61%,180,688,5,normal,284,2274,"5000 Pcs Contas Kit, 3mm De Vidro Missangas, Contas Letra Do Alfabeto E Contas Da Forma Do Coração Para O Nome Pulseiras Fazer Jóias E Artesanato",False
 1668660357,20221117,14605640215,69,61%,180,689,5,normal,284,2274,"5000 Pcs Contas Kit, 3mm De Vidro Missangas, Contas Letra Do Alfabeto E Contas Da Forma Do Coração Para O Nome Pulseiras Fazer Jóias E Artesanato",False
 1668653575,20221117,14605640215,69,61%,180,689,5,normal,284,2273,"5000 Pcs Contas Kit, 3mm De Vidro Missangas, Contas Letra Do Alfabeto E Contas Da Forma Do Coração Para O Nome Pulseiras Fazer Jóias E Artesanato",False
-1671441528,20221219,15538395933,115,44%,208,9795,122,normal,576,2889,massageador 24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa dong yang,True
+1671445340,20221219,15538395933,115,44%,208,9895,122,normal,576,2889,massageador 24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa dong yang,True
+1671441528,20221219,15538395933,115,44%,208,9795,122,normal,576,2889,massageador 24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa dong yang,False
 1671413630,20221219,15538395933,115,44%,208,9795,122,normal,575,2889,massageador 24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa dong yang,False
 1671398105,20221218,15538395933,115,44%,208,9795,122,normal,575,2890,massageador 24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa dong yang,False
 1671392282,20221218,15538395933,115,44%,208,9795,122,normal,575,2889,massageador 24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa dong yang,False
@@ -5932,7 +5937,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655472784,20220617,15538395933,119,43%,208,1707,96,normal,75,695,massageador 24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa dong yang,False
 1655452788,20220617,15538395933,119,43%,208,1707,96,normal,75,694,massageador 24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa dong yang,False
 1654073175,20220601,15538395933,119,43%,208,1772,96,normal,62,492,massageador 24 Peças Suporte A Vácuo Anti-Celulite Acupuntura Massagem Com Ventosa dong yang,False
-1671434232,20221219,15574703473,69,59%,167,1853,336,normal,472,2937,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,True
+1671445345,20221219,15574703473,69,59%,167,1852,336,normal,472,2938,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,True
+1671434232,20221219,15574703473,69,59%,167,1853,336,normal,472,2937,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1671431055,20221219,15574703473,69,58%,167,1853,336,normal,472,2937,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1671423780,20221219,15574703473,69,58%,167,1853,336,normal,471,2937,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1671420018,20221219,15574703473,69,58%,167,1852,336,normal,471,2937,Aisiw 4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
@@ -6721,7 +6727,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1669403775,20221125,16448275779,73,37%,116,2230,56,offensive_hide,89,859,4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1669368021,20221125,16448275779,73,37%,116,2230,54,offensive_hide,89,859,4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
 1669350520,20221125,16448275779,73,37%,116,2280,54,offensive_hide,89,859,4.000 Peças Contas E Pulseira Conjunto Para Fazer Jóias/Artesanato Kit 3 Milímetros De Vidro Semente Do Coração Carta De Amor DIY Arte,False
-1671442709,20221219,16588934345,50,,0,1300,160,normal,56,11228,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,True
+1671445351,20221219,16588934345,50,,0,1300,160,normal,56,11229,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,True
+1671442709,20221219,16588934345,50,,0,1300,160,normal,56,11228,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1671441539,20221219,16588934345,50,,0,1300,160,normal,56,11228,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1671439254,20221219,16588934345,50,,0,1300,160,normal,56,11227,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1671438285,20221219,16588934345,50,,0,1300,160,normal,56,11227,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
@@ -7872,7 +7879,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668782413,20221118,16588934345,30,39%,50,1288,0,normal,0,7633,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1668781070,20221118,16588934345,30,39%,50,1276,0,normal,0,7610,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1668779518,20221118,16588934345,30,39%,50,1269,0,normal,0,7578,Carregador Chaveiro Portátil 1500mAh Mini Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
-1671413631,20221219,16604914064,120,50%,241,10289,7,normal,147,685,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1671445341,20221219,16604914064,120,50%,241,10389,7,normal,147,685,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,True
+1671413631,20221219,16604914064,120,50%,241,10289,7,normal,147,685,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1671383729,20221218,16604914064,120,50%,241,10289,7,normal,147,685,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1671347739,20221218,16604914064,120,50%,241,10289,7,normal,147,686,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1671327360,20221218,16604914064,120,50%,241,10289,7,normal,147,685,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
@@ -8982,7 +8990,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1655452789,20220617,16604914064,115,52%,241,9889,40,normal,31,231,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1654077191,20220601,16604914064,115,52%,241,9923,16,normal,13,157,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
 1654073177,20220601,16604914064,115,52%,241,9924,16,normal,13,157,Amplificador De Potência De Áudio speaker amp AK380 800W Para Carro CD MP3 Telefone Amplificador Bluetooth Carro Karaokê Home Theater,False
-1671442714,20221219,18055298116,39,55%,80,18586,312,normal,144,4688,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas HYOY,True
+1671445356,20221219,18055298116,39,55%,80,18586,312,normal,144,4689,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas HYOY,True
+1671442714,20221219,18055298116,39,55%,80,18586,312,normal,144,4688,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas HYOY,False
 1671441544,20221219,18055298116,39,55%,80,18586,312,normal,144,4687,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas HYOY,False
 1671438290,20221219,18055298116,39,55%,80,18586,312,normal,144,4686,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas HYOY,False
 1671431066,20221219,18055298116,39,55%,80,18588,312,normal,144,4686,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas HYOY,False
@@ -10291,7 +10300,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668774862,20221118,18553582931,240,53%,496,279196,15,normal,13,517,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
 1668771425,20221118,18553582931,240,53%,496,279196,15,normal,13,516,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
 1668769975,20221118,18553582931,240,53%,496,279196,15,normal,13,515,Painel Honda TITAN 150 CG150 Fan Ventilador150 2004-2010 2012 Medidor Digital LED De Motocicleta RPM Velocímetro,False
-1671441535,20221219,19756333237,240,51%,492,136100,108,normal,65,1304,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,True
+1671445346,20221219,19756333237,240,51%,492,136099,108,normal,65,1304,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,True
+1671441535,20221219,19756333237,240,51%,492,136100,108,normal,65,1304,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
 1671427047,20221219,19756333237,240,51%,492,136100,108,normal,65,1303,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
 1671420019,20221219,19756333237,240,51%,492,136100,108,normal,65,1302,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
 1671417342,20221219,19756333237,240,51%,492,136101,108,normal,65,1301,Painel Digital LED Velocímetro Eletrônico De Motocicleta RPM Para O Brasil Honda TITAN 150 CG150 Fan150,False
@@ -11060,7 +11070,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668886650,20221119,19914155238,99,40%,163,196,252,normal,312,3512,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,False
 1668875042,20221119,19914155238,99,40%,163,196,247,normal,312,3512,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,False
 1668841441,20221119,19914155238,99,40%,163,196,247,normal,311,3512,30 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas,False
-1671442711,20221219,20248001382,20,,0,2997,0,banned,0,14,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",True
+1671445353,20221219,20248001382,20,,0,2997,0,banned,0,14,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",True
+1671442711,20221219,20248001382,20,,0,2997,0,banned,0,14,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
 1671441542,20221219,20248001382,20,,0,2997,0,banned,0,14,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
 1671439256,20221219,20248001382,20,,0,2997,0,banned,0,14,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
 1671438287,20221219,20248001382,20,,0,2997,0,banned,0,14,"12v Velocímetro Duplo De Motocicleta , Medidor De Teste De Milhas De Dupla Velocidade Com Indicador led 140 km/h",False
@@ -12225,7 +12236,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668814793,20221118,20259829434,225,65%,650,9996,0,normal,0,13,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668802743,20221118,20259829434,225,65%,650,9996,0,normal,0,14,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668769974,20221118,20259829434,225,65%,650,9996,0,normal,0,13,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
-1671442713,20221219,20859416263,5,,0,0,30,sold_out,3,140,Pingente de Natal Harry Potter feltro,True
+1671445354,20221219,20859416263,5,,0,0,30,sold_out,3,140,Pingente de Natal Harry Potter feltro,True
+1671442713,20221219,20859416263,5,,0,0,30,sold_out,3,140,Pingente de Natal Harry Potter feltro,False
 1671441543,20221219,20859416263,5,,0,0,30,sold_out,3,140,Pingente de Natal Harry Potter feltro,False
 1671439258,20221219,20859416263,5,,0,0,30,sold_out,3,140,Pingente de Natal Harry Potter feltro,False
 1671438289,20221219,20859416263,5,,0,0,30,sold_out,3,140,Pingente de Natal Harry Potter feltro,False
@@ -13291,7 +13303,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668964523,20221120,20859416263,5,,0,1634,0,normal,0,82,Pingente de Natal Harry Potter feltro,False
 1668963066,20221120,20859416263,5,,0,1634,0,normal,0,82,Pingente de Natal Harry Potter feltro,False
 1668962730,20221120,20859416263,5,,0,1634,0,normal,0,82,Pingente de Natal Harry Potter feltro,False
-1671442707,20221219,20859436542,42,,0,39996,41,banned,16,2683,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,True
+1671445349,20221219,20859436542,42,,0,39996,41,banned,16,2683,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,True
+1671442707,20221219,20859436542,42,,0,39996,41,banned,16,2683,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1671441538,20221219,20859436542,42,,0,39996,41,banned,16,2683,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1671439252,20221219,20859436542,42,,0,39996,41,banned,16,2683,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1671438283,20221219,20859436542,42,,0,39996,41,banned,16,2683,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
@@ -14427,7 +14440,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668774862,20221118,20859436542,31,39%,50,1900,0,normal,0,1031,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1668771426,20221118,20859436542,31,39%,50,1901,0,normal,0,1004,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
 1668769975,20221118,20859436542,31,39%,50,1902,0,normal,0,994,Chaveiro Carregador Portátil 1500mAh De Com Rápido Externo Ultra-Compacto Tipo C kou kouzxbr,False
-1671442712,20221219,21863325818,91,,0,5318,9,normal,5,984,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,True
+1671445353,20221219,21863325818,91,,0,5318,9,normal,5,984,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,True
+1671442712,20221219,21863325818,91,,0,5318,9,normal,5,984,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1671441542,20221219,21863325818,91,,0,5318,9,normal,5,984,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1671439257,20221219,21863325818,91,,0,5318,9,normal,5,984,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
 1671438288,20221219,21863325818,91,,0,5318,9,normal,5,984,Carregador De Chaveiro Portátil De 1500mAh Com Android Tipo C Para Carregamento Rápido Externo Ultra-Compacto,False
@@ -15529,7 +15543,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668797182,20221118,22003303123,225,50%,451,9997,0,normal,0,99,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668778548,20221118,22003303123,225,50%,451,9997,0,normal,0,98,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
 1668769974,20221118,22003303123,225,50%,451,9998,0,normal,0,98,Odômetro De Painel Digital LED Para O Brasil Honda Titan150 CG150 Fan150,False
-1671442708,20221219,22006088115,53,,0,1970,9,normal,3,115,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,True
+1671445350,20221219,22006088115,53,,0,1970,9,normal,3,115,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,True
+1671442708,20221219,22006088115,53,,0,1970,9,normal,3,115,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1671441539,20221219,22006088115,53,,0,1970,9,normal,3,115,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1671439253,20221219,22006088115,53,,0,1970,9,normal,3,115,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1671438284,20221219,22006088115,53,,0,1970,9,normal,3,115,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
@@ -16603,7 +16618,8 @@ time,date,itemid,price,discount,price_before_discount,stock,sold,item_status,cmt
 1668788715,20221118,22006088115,30,42%,53,1997,0,new,0,0,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1668782413,20221118,22006088115,30,42%,53,1999,0,new,0,0,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
 1668779517,20221118,22006088115,30,42%,53,2000,0,new,0,0,Carregador De Chaveiro Pequeno Portátil Mini Com Bateria-Em 1500mAh Compatível Porta De Iluminação Fácil haolicbr,False
-1671442711,20221219,22203769434,58,,0,18000,0,normal,0,18,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,True
+1671445352,20221219,22203769434,58,,0,18000,0,normal,0,18,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,True
+1671442711,20221219,22203769434,58,,0,18000,0,normal,0,18,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
 1671441541,20221219,22203769434,58,,0,18000,0,normal,0,18,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
 1671439256,20221219,22203769434,58,,0,18000,0,normal,0,18,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
 1671438286,20221219,22203769434,58,,0,18000,0,normal,0,18,tenis Super Quente Estudante Pai Sapatos Feminino Dentro Da Maré 2022 Outono Nova Versão Coreana De Coringa Branco Esportes Corrida Tênis,False
